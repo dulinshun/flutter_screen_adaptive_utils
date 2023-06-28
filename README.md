@@ -1,6 +1,6 @@
-# flutter_ui_adapt
+# flutter_screen_adaptive_utils
 
-A new Flutter project.
+Flutter 用来屏幕自适应的工具
 
 ## Getting Started
 
